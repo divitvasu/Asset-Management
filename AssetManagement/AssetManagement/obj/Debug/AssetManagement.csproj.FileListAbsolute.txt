@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\WT\Projects\AssetManagement\AssetManagement\bin\AssetManagement.dll
+C:\Users\admin\Desktop\WT\Projects\AssetManagement\AssetManagement\bin\AssetManagement.pdb
+C:\Users\admin\Desktop\WT\Projects\AssetManagement\AssetManagement\obj\Debug\AssetManagement.dll
+C:\Users\admin\Desktop\WT\Projects\AssetManagement\AssetManagement\obj\Debug\AssetManagement.pdb
+C:\Users\admin\Desktop\WT\Projects\AssetManagement\AssetManagement\obj\Debug\AssetManagement.csprojResolveAssemblyReference.cache
+C:\Users\Divit Vasu\Google Drive\AssetManagement\AssetManagement\obj\Debug\AssetManagement.dll
+C:\Users\Divit Vasu\Google Drive\AssetManagement\AssetManagement\bin\AssetManagement.dll
+C:\Users\Divit Vasu\Google Drive\AssetManagement\AssetManagement\bin\AssetManagement.pdb
+C:\Users\Divit Vasu\Google Drive\AssetManagement\AssetManagement\obj\Debug\AssetManagement.csprojResolveAssemblyReference.cache
+C:\Users\Divit Vasu\Google Drive\AssetManagement\AssetManagement\obj\Debug\AssetManagement.pdb
